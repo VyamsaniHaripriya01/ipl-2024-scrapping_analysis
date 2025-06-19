@@ -1,5 +1,10 @@
 # 🏏 IPL 2024 Data Analysis Project
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Vyamsaniharipriya01/ipl-2024-scrapping_analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vyamsaniharipriya01/ipl-2024-scrapping_analysis)
+![GitHub License](https://img.shields.io/github/license/Vyamsaniharipriya01/ipl-2024-scrapping_analysis)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 This project scrapes the latest **IPL 2024 Points Table** using Selenium and BeautifulSoup, then performs data analysis and visualization — all within a single Jupyter notebook.
 
 ---
